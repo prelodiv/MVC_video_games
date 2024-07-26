@@ -1,7 +1,7 @@
 .vj-unchanged .card{
     height: 100%;
 }
-.vj-unchanged.card img{
+.vj-unchanged .card img{
  height: 200px;
     object-fit: cover;
 }
